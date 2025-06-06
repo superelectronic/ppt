@@ -8,15 +8,6 @@
 :revealjs_loop: true
 :revealjsdir: https://cdn.jsdelivr.net/npm/reveal.js
 
-[.title-slide-style]
-++++
-<style>
-section.title h1 {
-  font-size: 2em !important;
-}
-</style>
-++++
-
 image::church.png[width=50%]
 
 
